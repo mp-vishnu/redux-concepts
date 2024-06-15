@@ -1,0 +1,22 @@
+.maincontainer{
+    background-color: black;
+    padding-top: 30px;
+}
+p{
+    color:yellow;
+}
+.abc{
+    margin-right: 7px;
+}
+.b1{
+    border:2px solid grey;
+    padding: 10px;
+}
+.subhead{
+    color:brown;
+}
+.b2{
+    border:2px solid grey;
+    padding: 10px;
+    margin-top: 10px;
+}
